@@ -4,24 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="34ffa6a0-c595-4b3e-bc68-6f70b2919253" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/B_1000.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/B_1001.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/B_1008.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/B_10430.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/B_10869.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/B_10926.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/B_10998.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/B_18108.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/B_2557.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/B_2588.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="34ffa6a0-c595-4b3e-bc68-6f70b2919253" name="Changes" comment="231219 백준">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/B_10171.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/B_10172.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/B_11382.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/B_1330.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/B_2753.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/B_9498.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/B_10950.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/B_2739.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/B_8393.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/B_8393.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,9 +28,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2OMEruqOAzKD3GWKudtpbGwkOLY" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -67,37 +57,61 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.B_2588">
-    <configuration name="B_10430" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.B_10430" />
+  <component name="RunManager" selected="Application.B_2753">
+    <configuration name="B_10171" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.B_10171" />
       <module name="Baekjoon" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="B_10869" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.B_10869" />
+    <configuration name="B_10172" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.B_10172" />
       <module name="Baekjoon" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="B_10926" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.B_10926" />
+    <configuration name="B_1330" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.B_1330" />
       <module name="Baekjoon" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="B_18108" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.B_18108" />
+    <configuration name="B_2753" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.B_2753" />
       <module name="Baekjoon" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="B_2588" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.B_2588" />
+    <configuration name="B_9498" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.B_9498" />
       <module name="Baekjoon" />
       <extension name="coverage">
         <pattern>
@@ -111,11 +125,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.B_2588" />
-        <item itemvalue="Application.B_10430" />
-        <item itemvalue="Application.B_18108" />
-        <item itemvalue="Application.B_10926" />
-        <item itemvalue="Application.B_10869" />
+        <item itemvalue="Application.B_2753" />
+        <item itemvalue="Application.B_9498" />
+        <item itemvalue="Application.B_1330" />
+        <item itemvalue="Application.B_10172" />
+        <item itemvalue="Application.B_10171" />
       </list>
     </recent_temporary>
   </component>
@@ -127,11 +141,28 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1681362254618</updated>
-      <workItem from="1702983914164" duration="5253000" />
+      <workItem from="1702983914164" duration="6104000" />
+      <workItem from="1703050639948" duration="8000" />
+      <workItem from="1703050743922" duration="1747000" />
+      <workItem from="1703748686522" duration="7000" />
+      <workItem from="1703761769184" duration="2131000" />
     </task>
+    <task id="LOCAL-00001" summary="231219 백준">
+      <option name="closed" value="true" />
+      <created>1702990112386</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1702990112386</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="231219 백준" />
+    <option name="LAST_COMMIT_MESSAGE" value="231219 백준" />
   </component>
 </project>
